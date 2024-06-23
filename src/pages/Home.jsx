@@ -1,7 +1,6 @@
 import React from 'react'
 import firstimg from '../images/secondImg.jpeg'
 import { useNavigate } from 'react-router-dom';
-import { useSelector } from 'react-redux'
 
 
 const Home = () => {
